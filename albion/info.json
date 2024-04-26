@@ -1,0 +1,10 @@
+{
+    "author": ["BermuXP"],
+    "name": "Albion stats",
+    "short": "Albion commands/death stats",
+    "description": "Albion commands/death stats",
+    "permissions" : ["Send Messages"],
+    "tags": [
+        "Albion"
+    ]
+}
